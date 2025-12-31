@@ -1,4 +1,4 @@
-#OAuth2 Demo
+# OAuth2 Demo
 ## Setup
 ```bash
 npm install
